@@ -5,3 +5,4 @@ webdriver-manager
 altair<5
 openpyxl
 undetected_chromedriver
+deep_translator
