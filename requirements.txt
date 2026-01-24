@@ -4,3 +4,4 @@ selenium
 webdriver-manager
 altair<5
 openpyxl
+undetected_chromedriver
