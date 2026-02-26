@@ -59,7 +59,7 @@ if not st.session_state['authenticated']:
         st.subheader("Protected Access")
         pwd_input = st.text_input("Enter Password", type="password")
         if st.form_submit_button("Login"):
-            if pwd_input == "Bilkish":
+            if pwd_input == "Hamada1":
                 st.session_state['authenticated'] = True
                 st.rerun()
             else:
